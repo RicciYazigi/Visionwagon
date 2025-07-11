@@ -1,0 +1,7 @@
+openai
+replicate
+pika
+psycopg2-binary
+PyYAML
+pytest
+requests

@@ -1,0 +1,17 @@
+# Placeholder for multi-environment configuration
+# Content to be filled in later.
+
+default:
+  env: "default"
+  api_keys:
+    openai: "YOUR_OPENAI_KEY_HERE"
+    elevenlabs: "YOUR_ELEVENLABS_KEY_HERE"
+    stable_diffusion: "YOUR_STABLE_DIFFUSION_KEY_HERE"
+
+dev:
+  env: "dev"
+  # Development specific configurations can override default
+
+prod:
+  env: "prod"
+  # Production specific configurations can override default
